@@ -1,0 +1,52 @@
+Searchers are hoping to bring technology to small farms in developing countries.
+Ranveer Chandra works for Microsoft Corporation, a American technology company.
+Chandra grew up in India, he remembers spending 4 months a year on his family's farm.
+"There is no water", he said. "No electricity, no toilets".
+Animals pulled plowing equipment through fields, as they have for centuries.
+Now, Chandra, like many other researchers, wants to bring technology to small farms.
+Their goal is this, to feel the world without destroying the planet.
+Precision agriculture is a method of growing crops. Farmers use technology to connect 
+very precise or exact measurement about their land. It tell farmers how they planted seeds
+........
+The main idea of precision farming notes the crops society of America or CSA. It's that
+there are natural differences in the soil, even in the same field. Farmers who understand 
+these differences are better able to product crops. Precision farming is fairly new in the
+United States, said the CSA. It began in 1990s, at that time, global positioning system
+or GPS technology became available to the public. GPS technology is available to show exact 
+positions on Earth. GPS information can tell farmers where their planted seeds......
+In many areas, farmers do not use high-tech equipment, often in these places, production levels
+are low. Now, hith-tech tools are bringing a new level of precision to large-scale agriculture.
+Farming equipment can plant different amounts of seeds and leave different amounts of fertilizer
+in different parts of the field. Water measuring equipment can tell farmers how much water their 
+plants are getting. Some of these technology is too costly for small farmers, especially in
+developing countries.
+Chandra, the Microsoft researcher from India is working to develop low-cost, high-tech tools
+for farmers. Chandra developed a system that connects soil sensors to other sensing equipment 
+through unused television or TV channels. These unused TV signals known as White space frequencies
+can provide broadland Internet connection over long distance. Some hospitals and schools in world
+areas are all ready online with white space connections, Chandra noted. Each soil sensor provides 
+information about conditions on the farm. To connect all the areas into a big picture, a drone
+aircraft takes photographs from high in the air.
+Artificial Intelligence or AI, compares these area photos to the sensor data. AI then can creat
+maps of where the soil is too acidic or needs more water.
+Similar technology can also help farmers watch their animals. Webcams can help farmers identify
+sick cattle.
+Chandra hopes to bring the cost the simple system under 1 hundred dollars. He notes the existence 
+of low-cost replacement for the drones. A ballon tied to a mobile phone can serve the same purpose.
+He added that Microsoft is considering different business models. Farmers could share a system
+or a local farm business could rent systems to farmers.
+Microsoft is just one company that sees	agriculture as an area of growth for technology.
+Google invested in a small company that gathers farmers' data on how different crops perform
+from farm-to-farm and year-to-year.
+Many other companies are trying to enter the high-tech farm business, notes John Fulton of 
+Ohio State University.
+Fulton himself has helped develope a free phone app for farmers, the software program helps them
+compare different field management techniques.
+"Everyone is trying to figure out how they play in agriculture", he said."we are really at a early
+stage of the digital agriculture revolution".
+Demand on agriculture are increasing, as the world's population grows, farmers will need to make
+more food without cutting down more forests or pollutting the land and water.
+To do that, existing farm need to produce more crops.
+Chandra says that what farmers need is more information, so they can give the land what it needs.
+Like apply water only where it is needed, apply fertilize where it is needed, apply pesticide
+where it is needed.

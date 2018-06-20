@@ -1,0 +1,29 @@
+A:Hello, Sales Department, this is Jacob
+B:Hi, Jacob, this is Andrea from Innovative Inc..
+A:Hi, Andrea, what can I do for you
+B:I'm organizing a meeting to discuss the development of the new
+Zozo smartphone advertisement. Will you be available at 10 AM.
+next Wednesday? That's August 27th.
+A:I need to shuffle a few things around(Move thing around), but I'll definitely be able
+to attend.
+B:The meeting will be in the conference room on the second floor, it's
+the same location as the meeting we had last month.
+A:Is that room directly opposite the elevator?
+B:That's right. Is there anything else you need to know?
+A:No, I'll call you if I think of anything
+B:Great, thanks, Jacob. I'll see you next Wednesday
+A:OK, thanks for calling
+Two days before the meeting
+A:Hello, is that Andrea?
+B:Yes, it is.
+A:Andrea, it's Jacob from Zozo.
+B:Hi, Jack, what's up
+A:I'm just calling to confirm the time and location of Wednesday's meeting
+B:OK, It's at 10 AM. Wednesday in conference room
+A:And if my recollection is correct, the conference room is on the second floor.
+B:That's right, directly opposite the elevator.	 
+A:Thanks Andrea, I'll see you on Wednesday
+B:I'm looking forward to it
+(You should attend to teacher's lecture)escastor
+(I live next to the bank, opposite the theater)
+(I hold the opposite view)

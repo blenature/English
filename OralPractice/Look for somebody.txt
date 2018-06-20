@@ -1,0 +1,4 @@
+Q:May I help you?
+A:Yes, I'm looking for Bob
+Q:He's meeting with Phil.(He's in a meeting with Phil)
+A:No problem. I'll wait for a moment(I can wait)

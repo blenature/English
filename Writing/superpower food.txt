@@ -1,0 +1,13 @@
+	Some studies show that some food is very good for human health.
+It can prevent many diseases and help human being maintain healthy. But
+most of the studies just chose animals as implementation objects. Maybe some
+food is good for animals. But there are many differences between human and animals. 
+Some kind of animal maybe stronger in nature, and others maybe larger or smaller than human.
+so we cannot say that it is good for human too.
+	If they assume that some food has several special effects, but there 
+are no enough evidences to prove that these effects could have a good impact
+on human health and prevent some special diseases. We maybe say that some food
+could help human cuel disease, but how the effect is? Maybe eating some food 
+regularly could reduce the risk of getting a cancer by 20 percent. But it is
+just a number. We also have no an exact example to prove that some food are
+superpower food.

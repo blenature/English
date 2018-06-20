@@ -1,0 +1,22 @@
+Vocabularies:
+Transport
+Transportation
+Greenfield
+Premise
+Premises
+Motorway
+Outskirts
+Pallet
+Install
+Installation
+Maximum
+Annum
+
+Grammars:
+be nearer the motorway
+walk past
+far end
+start up
+running speed
+maximum output
+full capacity

@@ -1,0 +1,23 @@
+A:Hello, thank you for calling Pinto products. This is Brad speaking, how
+may I assist you?
+B:Good afternoon, Brad. My name is Andrea and I work for Innovative Incorporated.
+I'm calling to speak with Zen about the details of a project we're colaborating on.
+Is it convenient to speak to him at the moment?
+A:I am not sure if he's available. Would you mind holding for a moment while 
+I check.
+B:That'll be fine. Thanks
+A:Thank you. It'll only be a moment
+Thirty seconds later.
+A:Andrea, thanks for holding. Unfortunately, Zen isn't at his desk right now.
+B:Are you able to tell me when he'll return?
+A:I am sorry, but I'm not sure. He's been busy every morning this week, because
+of the convention next week. Would you like to leave a message and I will ask him
+to call you back as soon as he returns?
+B:No, it's OK. I won't be in my office for a few hours. It's probably better if I
+call him back later in the day. What time does he work till?
+A:Five thrity.
+B:Thanks
+A:Is there anything else I can assist you with?
+B:No, that's all, thank you
+A:OK, have a pleasant day.
+B:You too, bye

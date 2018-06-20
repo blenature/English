@@ -1,0 +1,62 @@
+One of the newest smart devices is an old favorite, a camera. And smart cameras are
+getting smarter all the time.
+Some are now built with machine learning tools to help them think for themselves.
+Machine learning involes putting large amounts of data into a computer for
+processing. 
+A computer uses algorithm them to process data and learn from it.
+The machine then trains itself over time to make predictions and decisions about
+future actions.
+This technology helps cameras operate on their own by reacting to people 
+and objects, and particular environment.
+One of the lastest to launch is Google Clips. It's the first camera developed
+by the web search giant, that is not built into a phone.
+Google Clips is very small, weighing just 60 grams The device is designed to
+be put somewhere in the room to take pictures by iteself.
+It can also be attached to an object or a person's clothing.
+Google says machine learning helps the camera choose the better times and
+situations for taking pictures and video clips.
+It can also recognize the faces of people or pets chosen by the user
+and take pictures of them in a more natural way.
+Google Clips is smart enough to recognize great expressions, lighting and framing
+the company says on its website.
+Google says privacy control has been built into the camera to give users
+complete control over which images they send to other devices or share
+with others.
+The price for Google Clips is 249 dollars. 
+The device is not yet being sold, but interested buyers can join the waiting
+list to be informed when it's available.
+GoPro is another company developing machine learning technology.
+The company's hero5 and hero6 models are designed to be easily taken anywhere
+and can automatically capture pictures and video.
+The hero5 session camera can be control by voice to allow for total hands-free
+usage.
+Go... also uses machine learning to power its QuikStories feature.
+This tool takes existing photos and videos and automatically creates a finished
+video piece complete with music and effects.
+Messaging app Snapchat sells a pair of sunglasses with a built-in camera that can 
+record short video clips with the push a button.
+Snap Inc. says the product called Spectacles is designed to capture the moment without
+taking you out of it.
+While GoPro's cameras Snapchat's Spectacles are designed to be used mostly outdoors.
+Google says Clips works best when used at home with family and close friends.
+Most GoPro and Snap Inc. plan to keep developing machine learning technology.
+But so far, neither has released products with smart capture capabilities
+camparable to Google Clips.
+Many smart phones already have facial recognition technology built into the
+devices.
+Apple's new iPhone10 is being launched with its new Face ID system, that it
+says will unlock the phone just by having a user look at it.
+This replaces the Touch ID on previous devices that use a fingerprint to
+unlock the phone.
+Apple says the system works by projecting more than 30,000 dots on the face 
+to create a kind of map.
+And infrared camera then reads the dots to create a image that can be confirmed
+as a match.
+Apple claims facial recognation is even secure enough to allow payments 
+through its Apple Pay service.
+Sunsung's S8 smart phones also use facial recognition technology to
+unlock devices.
+Earlier this year, Sunsung also launched its new voice assistant Bixby
+The service uses machine learning to automatically search and bring up
+information on things that photographed.
+The technology also allows voice to control many devices's actions.

@@ -1,0 +1,5 @@
+Q:Is Mr Zhang available?
+A:He's out. Would you like to leave a message?
+Q:No, could you tell me his phone number?
+A:Sorry, I couldn't without his permission
+Q:OK,I see, when he comes back, please tell him Donald called

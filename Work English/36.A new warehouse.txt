@@ -1,0 +1,14 @@
+A:Here are the plans for the new finished good warehouse. Do you have any thoughts or comments?
+Q:I think the plans look good. There's just on thing though. I have a bit concerned about
+the main lorry entrance. What's the height clearance?
+A:Let met check. It's 3.80 meters.
+Q:Are you sure they're high enough?
+A:That's a good point, I'll make a note to increase it to 4.8 meters to make sure we can
+accept new container
+
+A woman is talking to a man. That man may be a supervisor of a company, and that woman is
+his assistant or his subordinate who reponsible for make a plan for their new warehouse of
+finished good. That man thinks the plans are very good, but he's a bit concerned about
+the main lorry entrance, he wonder the entrance is too low to allow a lorry to come in.
+His assistant says his comment is a good point, she'll note it and request to increase it
+by 1 meter so that their new containers can come in through the entrance.

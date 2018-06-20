@@ -1,0 +1,26 @@
+(Schedule meeting=arrange meeting)
+A:Hello, Andrea, this's Dylan Cooper calling from Innovative inc.
+B:Hi, Dylan. How are you(How's going)(How are you doing)
+A:I'm doing well(I'm doing well). We've reviewed your application 
+for the advertising associate position, and would like to arrange 
+an interview with you. Will you be available this week?
+B:Yes, I'm available most days during the morning.
+A:Excellent. Would an appointment at 9 AM on Thuesday be convenient?
+B:9AM on Thuesday, of course.
+A:Our office is located on the 3rd floor, at 197 Diversey Ave(avenue). 
+You'll be interviewed by Mr.Johnson in the creative department.
+B:Is the spelling of Mr. Johnson, J O H N S O N.
+A:That's right
+B:Great. May I ask how far the office is from the subway station?
+A:The closest subway station to our office is Merchandise Mart, which is 
+about a 15 minutes walk  to our office. 
+B:Thank you, I'll keep that in mind
+A:Oh, please bring your portfolio and any relevant materials with you. 
+Mr. Johnson will want to look at them. 
+B:I will. I look forward to it. Is there anything else I should be aware of?
+A:No, I think that's all. Thank you, Andrea, have a good day
+B:Thanks for calling, you have a great day as well
+
+(He's good at writing=He's skilled in writing=He excelles at writing)
+(you should be aware of the importance of learning English=be conscious of)
+

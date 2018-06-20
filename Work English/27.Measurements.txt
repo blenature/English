@@ -1,0 +1,11 @@
+Q:Hi Sven, can you help me? Could you hold the end of the tape measure please?
+A:Of course, where do you want me to stand?
+Q:Just there by the door. I need to measure  the length of this workbench, we're going to
+replace it. OK, 3 meters 47 centimeters, let's round it up to 3.5 meters
+A:I'm glad you're replacing it. We need more space to work on things.
+How deep will the new workbench be?
+Q:Tell me what size do you want, and I'll order the wood
+A:Well, it's about 6.5centimeters at the moment, could we increase it by about a third?
+Q:Sure ,so let's see. We need a piece of wood 3.5 meters long by 1 meter wide.
+I'll order it right away, and I'll be able to install it night Tuesday
+

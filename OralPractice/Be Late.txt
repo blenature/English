@@ -1,0 +1,4 @@
+Q:Bob was late for work this morning
+A:Has he been late before?
+Q:Yes, once last week
+A:Thanks for letting me know that

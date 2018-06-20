@@ -1,0 +1,7 @@
+A:OK, so this's our newest machine, it was only installed last year.
+Q:What's running speed of the machine?
+A:About 1500 meter per minute, it's one of the fastest in the world.
+We had a few problems with it after started up, but it's running
+very well now.
+Q:And what's the maximum output?
+A:If we're running a full capacity, it's 160,000 thousand tons per annum.

@@ -1,0 +1,9 @@
+A:Would you like me to show you our new cleaning unit, it's a clever design.
+Q:Yes, I'd like to see that. What does it clean exactly?
+A:It washes the solvent off all the metal parts - the blades, trays etc, and then sends 
+them back into the system.
+Q:What does the unit consist of?
+A:Well, it's basically two tanks. One for the dirty solvent, and one for the clean solven
+a pump and washing unit.
+Oh, and this's cooling system and a filter. It's all controlled by a PLC system, that stands 
+for Process Logic Control

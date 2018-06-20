@@ -1,0 +1,25 @@
+A:Hello, this is Andrea from the Creativity Department at Innovative Inc.
+B:Hi, Andrea. This is Mike Kimberly speaking. What can I do for you this morning.
+A:I need to place an order for 24 printing software packages.
+B:Which software do you require, Printmaster Pro12 or Printmaker Prime?
+A:We would like Printmaster Pro12.
+B:I'm sorry, Andrea, I didn't quite catch what you said, the signal is breaking up.
+Could you repeat that please?
+A:Printmaster Pro12. We need 24 copies of Printmaster Pro12.
+B:Did you say Printmaker Prime?
+A:No, maybe I should hang up and call back.
+B:I'm sorry, Andrea, it's hard to hear you. Could you repeat that please?
+Andrea hangs up and immediately calls back.
+A:Hello, is that Mike?
+B:Oh, yes, this is Mike speaking ,thanks for calling back. There was a lot of
+interference, I couldn't hear a word you were saying.
+A:That's OK, can you hear me clearly now?
+B:Yes, loud and clear. Now, where were we?
+A:I want to order 24 copies of Printmaster Pro12
+B:OK, That's 24 copies of Printmaster Pro12.
+A:And when do you think we will receive the order?
+B:We will dispatch the order by courier before midday. I'll send you
+an email with confirmation of the details
+A:Great, thanks, Mike
+(place an order on)
+(To master a language, you must expose yourself to it day and night)

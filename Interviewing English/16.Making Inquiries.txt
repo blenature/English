@@ -1,0 +1,20 @@
+A:Good morning, Cybercloud. This is Glen.
+B:Hello, Glen My name is Andrea, and I'm calling on behalf of Innovative Inc..
+A:Hi, Andrea, how can I help you
+B:We're considering some major upgrades to the software and hardware we use in 
+Creativity Department. One of your client, Frank from Highlight Designs,
+ recommended that I speak to you.
+A:Oh, yes, Frank from Highlight We do a lot of work for his company.
+B:Yes, that's what he told me. He also told me you could provide a fair price 
+along with excellent customer service.
+A:That's correct. Many of the employees at Cybercloud are IT professionals. We do whatever
+is necessary to provide the best products and after-sales service.
+B:Great. We have a network of 24 workstations, each workstation requires an update
+to the latest version of A-designer. Are there minimun order requirement?
+A:Yes, there are. You must update the licences of at least 20 copies to receive the 
+25 percent discount. Further discounts are available if you pay within 30 days.
+B:Fantastic. Do you have any brochures for your printers?
+A:Yes, I do. Would you like me to send you some along with a catalogue of
+our computer accessories and a pricelist?
+B:Yes, I would appreciate that.
+(I will give you a 30 percent discount on this watch)

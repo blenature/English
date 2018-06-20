@@ -1,0 +1,33 @@
+Google has launched a new tool that lets users search for new job listings across
+many major career websites.
+Beginning Tuesday, English-speaking job seekers in the United States will be able
+to use the new service.
+The new search tool was first announced at Google's yearly developer's conference
+in May.
+Now, when people search for jobs or jobs near me on Google, the results will include
+listings from a number of websites.
+In the past, Google job search only brought up general results from major job sites.
+With the new results, users can connect directly to the job descriptions that interest
+them.
+Among the major job sites cooperating with Google are Linkedin, Monster, CareerBuilder, Facebook,
+ZipRecruiter and Glassdoor.
+The tool allows job seekers to narrow their search by category, job title or date posted.
+The new search service can also let users know how long will take to drive to the new job.
+As with many career websites, people can also request that alerts or emails be sent 
+to inform them of new jobs of interest.
+Google says the new system helps job seekers by putting many different listings in one
+place.
+Users no longer have to go onto multiple websites to search.
+An announcement on the company's website said the system is powered by Google's Machine
+Learning Technology.
+This makes the results more revelant and provides suggestions to users of other
+possible jobs of interest
+The search is also supposed to prevent duplicate or old listings from coming up.
+Google plans to keep adding new job sites to the system over time.
+The company said it has encouraged all job providers to make openings available through new Google
+Career Search.
+The system is available for people using a desktop or mobile device.
+The new service is Google's latest attempt to users on the search engine while they 
+seek various products.
+The company already expanded his search capabilities related to travel, ordering food 
+and connecting users to other local services.

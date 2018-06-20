@@ -1,0 +1,9 @@
+Q:Hi, Bob, can you tell me a new update of your project?
+A:Mary is handling it
+Q:Is everything under control?
+A:Of course, Mary is the most sophisticated uperson of us
+
+Q:Can you give me an update of this situation?
+A:Mary is handling it
+Q:Is everything under control?
+A:Of course, Mary is our most experienced member

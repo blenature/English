@@ -1,0 +1,53 @@
+One of the uses of techology is to make life easier.
+A new product form Microsoft Corporation can do just that for people who have trouble seeing.
+They may be blind or visually impaired.
+The product in app is currently avaiable for free for Apple's iPhone and iPad.
+The app is called Seeing AI. AI is short for artificial intelligence, a term for computers
+with ability to think and learn like human being. Seeing AI uses both artificial intelligence and
+a camera to identify places, objects and people. The app then announces what the camera sees, so 
+users will know what is in front of them. People can also use Seeing AI to learn words in English.
+With the app open, you can point your iPhone or iPad at any object, and it will see what the object is.
+With Seeing AI, users can hear a description of not just objects, but other people. It can even tell
+you about their emotions. It'll not just say that someone is just smiling, the app will say that the
+person is happy, or surprised, or angry.
+People can use this app when going to a store or supermarket. It can read product ban codes so users
+will know whether a can was filled with food or dog food. Microsoft said Seeing AI will soon be able
+to identify banknotes so people know whether they are holding a bill that was 100 dollars or 1 dollar.
+At resturant, diners can use the new app to hear a list of drinks other menu offering. It can
+recognize both food choices and prices. People can use the app to read signs and get directions.
+Although, Mircosoft warns against using it for navigation purposes.
+One of the most interesting tools of Seeing AI is its ability to read documents. The app can read 
+documents aloud and even help a user position them on the center of the electronic device.
+The app looks for the edges of the document so it knows that it is reading all of the wording.Seeing AI can
+also identify images in other apps. When you are using another app, hit the 'Share' icon and choose
+'Recognize with Seeing AI'. The app can identify what is in the image as if it was right in front of
+you. The Seeing AI app has four channels, Short Text, Document, Product, and Person. After you download
+it, the app will show you video directions for each channel. With the Document and Person channels, 
+the app takes a picture of the object or person then examines the image and announces what it is.
+The Short Text channel can be used to read things such as signs that have few words that will fit on
+a screen. Hold the camera over the text and the app will start reading the wording out loud.
+The Document channel is for longer printed pages. The app will tell the user how to center the camera 
+so it can read all the text. Users should put the document on top of something with a different colour,
+such as a white sheet of paper on a dark surface. This helps the app identify the edges of the paper.
+The Product channel reads bar codes to help users recognize what the product is. The app may also
+provide more information about the product such as cooking directions. Seeing AI will guide users
+with sound, short beeps, to let them know when the camera is getting closer to and then scanning
+the bar code. When the app scans the bar code, it will read the name of the product. If more information
+is available about the product, a 'More Information' button will appear in the program.
+The Person channel helps users identify people. Who they are and what they are doing. The app can
+identify more than one person in a photograph. Users can teach the app names of people, so it can
+anncounce who they are by name. The app will help guide users while taking a photo of people so
+that their faces are in the center of the image. This channel also helps identify the emotions of 
+people. The app will tell how a person is feeling based on their faces. The app will also predict
+the person's age and sex. The app also has an Experimental channel called Scene. With that channel,
+the app guesses what is happening in the photo. Mircosoft also says a currency channel is coming 
+soon to the app. That area will help users know the value of banknotes.
+Seeing AI is a new app and will not be correct one hundred percent of the time. For example, 
+just because someone is smiling does not necessarily mean they are happy. The app recognizes text
+but not handwriting yet. That feature may be available in the future. Also Seeint AI need to be
+connected to the Internet to work. For more information about the app, including the informational 
+videos, go to Mircosoft's Seeing AI website.
+As we said earlier, Seeing AI is a free app and avialable for Apple's iPhone and iPad in the 
+iTunes App Store. Mircosoft has not yet said whether it will be available on Android in the future.
+The app is currently available in Canada, Hongkong, India, New Zealand, Singapore and United States.
+

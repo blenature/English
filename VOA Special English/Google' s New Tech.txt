@@ -1,0 +1,54 @@
+Google announced new technology at its yearly developers conference last week. Many of these announcements
+involve updates to existing tech, instead of new gadgets These updates may make life a little easier.
+Google is adding a feature to GMail, to make it easier for the users to answer emails. Smare Reply
+learns how you write and suggests three short replies to emails you receive. You can choose one and
+sent it or add more words to the Smart Reply. Smart Reply will be offered in English, and will 
+expand to Spanish later this year. 
+Google Assistant, the digital assistant from Google is getting updates with new features. You will
+be able to use Google Assitant to do more things on more devices. For example, Google Assistant
+is learning to read. Users will be able to type questions to Google Assistant on their phones
+in addition to using voice commands.
+History will be added to Google Assistant, so users can see what they have asked in the past. Google
+Assistant can help make your home smarter, as it now works with over seventy smart home partners.
+Use your voice to control your smart home devices with Google Home. More languages are coming to
+Google Assistant on Android. Google Assistant soon will be available in Japaness, Brazilian Portuguese,
+French and Germany. By the end of 2017, Google Assistant will be available in Italian, Korean and Spanish.
+Google Assistant is now available on the iPhone in the United States. People who want to use Google
+Assistant but also want to use iPhone can now download Google Assistant app. Unlike Siri, Google
+Assistant can not be started by pressing the Home button on the iPhone. Users must go into the app
+to use Google Assistant on the iPhone. The Google Assistant app is free in the iTunes App Store.
+Google is making its Google Home smart speaker more useful. Google Home works with Google Assistant,
+and will be able to let you know about information such as flight delays and traffic problems that 
+may delay your travels. Users do not even to ask for such assistance. Google Home will light
+up to let user know there is an alert. Then they just have to ask what the alert is about. Users 
+also can now set calendar appointments and reminders through Google Home. The information will appear 
+across all your devices. Google Home will be able to use voice activation for phone calls. Users can 
+speak to Google Home to place calls and talk on the phone. Google Home will recognize voices, for 
+example, if you tell it 'Call mum', it will can your mother, and not your partner's or roommate's
+mother. Google Home calls will be free to mobile phones and to landlines in the US and Canada. Google Home
+will be got into bluetooths so you can stream your music to it. You also will be able to play music
+directly from services such as Spotify, Soundcloud and Deezer If you have a Chromecat you will be
+able to use your television as the screen for Google Home. If you connect your Google Home to your
+Chromecast you will be able to see Google Home's answers to your questions on your TV. This feature will be 
+added later in 2017. Google is improving its ability to identify what is in a photo. For example,
+With Google Lens, users could point their cameras at a poster for an event and do things such as adding
+the event to their calendars, buying tickets to the event or finding out more about it. They can also use 
+Google Lands to point their phone cameras at a resturant and get ... for it, or they can focus it 
+on a flower, and Google Lands will identify the flower and suggests an nearby flower shop. But the 
+coolest trick of Google Lands may be one involving your ...... Pointing the camera at a ...password
+code and Google Lands will automatically log you into the network. Last month, we've reported on 
+how Google .... were changing image search. Google Land shows the increasing importance of image
+search to Google. Google added new useful features to Google Photos that make you share your phots
+easier. Suggested photos is a new feature of Google Photos that makes sharing easier. Suggested photos
+will identify people in the user's photos and suggests that user send them those photos. Users can
+even set Suggested photos to send the photos automatically to people in the photos without the need
+for a suggestion. Share Librarys is a new feature that let users share their entire Google photos
+library or large parts of it with other people. Users of Google Photos can now order printed books
+of their photos. Google will choose your best photos or you can choose them yourself. Google Photos
+will make sure there are no duplicates and you are choosing the best photos. Photo Books start with twenty
+pages and just under ten dollars for soft cover, and just under twenty dollars for hard cover.
+The Books will be available in the US first and then in other countries later this year.
+
+
+
+

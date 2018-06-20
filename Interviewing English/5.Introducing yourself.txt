@@ -1,0 +1,16 @@
+A:Hello, Mr.Johnson, nice to meet you. I appreciate you meeting with me.
+B:My pleasure, please have a seat.
+A:Thank you
+B:Ms.Moore. I would like to start by learning more about you, would you please
+tell me about your background?
+A:I graduated from Northwestern university with the degree in Advertising. Also, I volunteered
+at a neighborhood language center for new  immigrants for two years. These experiences have equipped me
+with both marketing knowledge and communication abilities.
+B:Excellent, communication is highly valued in this industry. How would you describe your presonality?
+A:I would describe myself as motivated, attentive to detail, and committed to teamwork. I'm a collaborator, 
+I can also work independently.
+B:Good, in this organization, employees must work both in a team and on their own. You have a degree
+in Advertising, why did you choose it as your prefession?
+A:I find it fascinating when words and images come together to convey strong effective message. For me,
+it's almost like a form of art, my view is that it takes the combination of creativity and branding in order to
+produce successful ad compaigns.

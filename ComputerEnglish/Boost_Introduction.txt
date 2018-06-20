@@ -1,0 +1,36 @@
+Why should an organization use boost?
+In a word, Productivity. Use of high-quality libraries like boost speeds initial delevlopment, results in fewer bugs, 
+reduces reinvention-of-the-wheel, and cuts long-term maintenance costs. 
+
+How do users get support?
+For relatively straightforward support needs, users rely on the mailing list. One of the advantage of Boost is the 
+responsiveness of other users and boost developers.
+
+How about license issues?
+Boost has its own license, developed with help from the Harvard Law School. The Boost license policies encourage both
+commercial and non-commercial use, and the Boost license is not related to the GPL or other licenses - that are 
+sometimes seen as business unfriendly.
+
+How about other intellectual property issues?
+The Boost libraries tend to be new, fresh, and createive designs. They are not copies, clones, or derivations of 
+proprietary libraries. Boost has a firm policy to repect the IP rights of others. The development of Boost libraries
+is publicly documented via the mailing lists and version control repository. The source code has been inpected by 
+many, many knowledgeable programmers. Each Boost file has a copyright notice and license information. IP issues have
+been reviewed by the legal teams from some of the corporations who use Boost, and in some cases these lawyers have been
+kind enough to give Boost feedback on IP issues. There are no guarantees, but those factors all tend to reduce IP risk.
+
+Why would anyone give away valuable software for free?
+Businesses and other organizations often prefer to have code developed, maintained, and improved in the open source 
+community when it does not contain technology specify to their application domain, because it allows them to focus more 
+development resources on their core business.
+Individuals contribute for the technical challenge, to hone their technical skills, for the sense of community,
+as part of their graduate school programs, as a way around geographic isolation, to enhance their employment opportunities,
+and as advertisements for their consulting services. There are probably as many reasons as there are individuals.Some of
+the apparently individual contributions come from employees of support companies with contracts from businesses or other
+organizations who have an interest in seeing that a library is well-maintained.
+
+Who pays Boost expenses?
+Boost doesn't really have any expenses. All the infrastructure is contributed by supporters, such as the Open System Lab 
+in Indiana University, SourceForge, Boost Consulting, MetaCommunications, and individuals, companies and other 
+organizations who run the regression tests. Borland, HP, Intel and Microsoft have contributed compilers. And hundreds, 
+even thousands of programmers contribute their time. That is what makes Boost possible.

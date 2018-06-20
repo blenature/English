@@ -1,0 +1,11 @@
+﻿音节必须含有元音及辅音。一个字若含有一个元音，便算是一个音节，若含有两个元音，便算是两个音节，   以此类推。
+含有1个音节的字
+sit (sIt)  坐   make (mek)  制造   meet (mit) 遇见
+含有2个音节的字
+tidy (`taIdI) 整洁的  baby (`beIbi) 婴儿 sister (`sIstər)姐姐/妹妹
+含有3个音节的字
+Germany   ('dʒɜːməni) 德国           symphony  ('sɪmfəni) 交响乐
+含有4个音节的字
+dictionary  ('dɪkʃə.neri) 字典          development (dɪ'veləpmənt)   发展
+含有5个音节的字
+international (.ɪntər'næʃən(ə)l)  国际的    interrogation (ɪn.terə'ɡeɪʃ(ə)n)  审问

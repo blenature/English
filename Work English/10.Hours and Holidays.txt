@@ -1,0 +1,8 @@
+Q:How many hours do you work a week?
+A:I do a forty-hour work. I'm on flexi-time. I usually start work at 8 AM, and finish
+it 4:30 PM, and have half an hour for lunch. But I can start and finish it earlier
+or later I want.
+Q:And tell me how many holidays do you get a year
+A:Four, plus public holidays. I usually take two weeks off in the summer and the rest New Year.
+Q:Do you do overtime?
+A:Yes, if we're busy. I'm paid double-time if I work at weekends.

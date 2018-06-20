@@ -1,0 +1,4 @@
+Q:We're having troubles with Bob;
+A:What's the trouble.
+Q:He's been late for work twice
+A:OK, I'll talk to him

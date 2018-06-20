@@ -1,0 +1,4 @@
+city    (`sItI)    城市          → (`sIti)
+sleepy  (`slipI)   想睡的        → (`slipi)
+Cindy  (`sIndI)  辛蒂（女孩名） → (`sIndi)
+由上得知，只要有两个音节以上的词，字尾有(I)的音标时，均要念成(i) ，而非 (I)。新版的字典多已注意到这点。

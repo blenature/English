@@ -1,0 +1,5 @@
+Q:I've just taken a spanner set from the stores
+A:That's fine, don't forget to update the inventory
+Q:Sorry, what do you mean?
+A:When you take something out of the stores, you need to update the stores' database,
+so we know when to reorder

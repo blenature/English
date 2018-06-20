@@ -1,0 +1,21 @@
+Vocabularies:
+GateHouse
+Assistant
+Rowing
+Meditation
+Weekday
+Rotate
+Multi-skilled
+
+Grammars:
+have problems doing
+look forward to doing
+be opposite the entrance to 
+what sort of 
+night shift
+shift system
+shift supervisor
+flexi-time
+plus public holidays
+doulbe-time
+triple one's pay

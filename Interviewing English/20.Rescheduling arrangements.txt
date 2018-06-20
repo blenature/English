@@ -1,0 +1,24 @@
+(Jacob calls Andrea 3 hours before a scheduled meeting)
+A:Good morning, Innovative Inc. Creativity Department, Andrea speaking
+B:Hi, Andrea, this is Jacob from Zozo calling. How are you today
+A:I am very well, thank you, and you?
+B:I am fine. But I'm afraid that I have some bad news regarding the meeting
+this afternoon, something has come up
+A:Oh, really, what's the problem.(What seems to be the problem)
+B:Our computer network has had a major breakdown this morning. We have lost all of
+our files, including the files with all the sales data as well as the sales
+projection's
+A:Oh, no, do you have backups
+B:Yes, but at the moment, we can't access(get into) the server where our backups are
+A:Oh, that is bad news. I'm so sorry to hear that. I guess the meeting will have to
+be rescheduled.
+B:Yes, I'm afraid so. Our IT technicians have said they will need the rest of the day
+to set everything back to normal. So we have to reschedule the meeting for late
+this week.
+A:That's OK, I understand.
+B:I'm so sorry for any inconvenience this has caused.
+A:Don't mention it, these things happen.
+B:Thanks, I really appreciate your patience. I'll  call you later to reschedule
+the meeting.
+(We have easy access to that computer)
+(You can call me at your convenience)

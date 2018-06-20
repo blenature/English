@@ -1,0 +1,27 @@
+A:Cybercloud Service Department, Morris speaking.
+B:Hi, Morris, this is Andrea from Innovative Inc.
+A:Hi, Andrea, what can I do for you
+B:I'm afraid there is a problem with the software we received this morning.
+A:Oh, what seems to be the problem
+B:Well, we ordered 24 copies of A-designer, but we actually received A-designer Lite
+A:All 24 copies?
+B:Yes, and we didn't realize until after our IT technician installed them
+on all of our workstations.
+A:Oh, I'm so sorry. Thank you for bringing this problem to my attention.
+I think the problem may have been caused by a lack of communication 
+among our staff.
+B:So how can this issue be resolved?
+A:First of all, I'll personally see to it that the problem is solved promptly.
+And rest assured knowing that resolving this issue has our company's highest priority.
+B:Thank you, Morris, I appreciate that.
+A:I will pack the correct software by myself and organize(arrange) for one of warehouse staff to
+deliver it in our company's service vehicle.
+B:Thank you. So I can expect the correct software to be delivered this afternoon?
+A:Absolutely. I will also see to it that you will receive an additional 5 percent
+discount on this order.
+B:Thanks
+A:No problem. It's the least we can do.
+(Can I be of any help)
+(organize for you to do)
+(arrange for you to do)
+(You may rest assured that I can finish the work for you)

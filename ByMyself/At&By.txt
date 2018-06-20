@@ -1,0 +1,6 @@
+At followed by time and By followed by time
+
+When we say, 'I can do it by 2 p.m', 'I can do it at 2 p.m'. They have different meaning.
+'by 2 p.m' means something I'll do will be done before 2 p.m, it will not be later than
+2 p.m.
+'at 2 p.m' means something I'll do will be done at 2 p.m, not befor not after, just 2 p.m.

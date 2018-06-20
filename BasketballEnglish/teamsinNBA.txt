@@ -1,0 +1,31 @@
+Texas, San Antonio Spurs
+California(Golden State) Oakland, Warriors
+Texas, Houston Rockets
+California, Los Angeles Clippers
+Utah, Salt Lake City Jazz
+Oklahoma, Oklahoma City Thunder
+Texas, Memphis Grizzlies(grizzly)
+Oregon, Portland Trail Blazers
+Colorado, Denver Nuggets
+State of Louisiana, New Orleans Pelicans
+Texas, Dallas Mavericks
+California, Sacramento Kings
+State of Minnesota, Minnesota Timber Wolves
+California, Los Angeles Lakers
+Arizona, Phoenix Suns
+
+Massachusetts, Boston Celtics
+Ohio, Cleveland Cavaliers
+Canada Ontario, Toronto Raptors
+Washington District of Columbia(WDC) Wizards
+Georgia, Atlanta Hawks
+Wisconsin, Milwaukee Bucks
+Indiana, Indianapolis Pacers
+Illinois, Chicago Bulls
+Florida, Miami Heat
+Michigan, Detroit Pistons
+North Carolina, Charlotte Hornets
+New York Knicks
+Florida, Orlando Magic
+Commonwealth of Pennsylvania, Philadelphia Sixers
+New York Brooklyn Nets
